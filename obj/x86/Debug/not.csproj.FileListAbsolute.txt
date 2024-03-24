@@ -1,0 +1,7 @@
+C:\Users\Win10\Desktop\nesne\not\not\bin\Debug\not.exe
+C:\Users\Win10\Desktop\nesne\not\not\bin\Debug\not.pdb
+C:\Users\Win10\Desktop\nesne\not\not\obj\x86\Debug\not.Form1.resources
+C:\Users\Win10\Desktop\nesne\not\not\obj\x86\Debug\not.Properties.Resources.resources
+C:\Users\Win10\Desktop\nesne\not\not\obj\x86\Debug\not.csproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\nesne\not\not\obj\x86\Debug\not.exe
+C:\Users\Win10\Desktop\nesne\not\not\obj\x86\Debug\not.pdb
